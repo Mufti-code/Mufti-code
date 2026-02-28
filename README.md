@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Mufti
+
+💻 Full Stack Developer  
+📍 Aceh, Indonesia  
+🚀 Building Web Systems for Villages & Schools  
+
+## 🔧 Tech Stack
+- React
+- Node.js
+- Express
+- MySQL
+- Tailwind CSS
+
+
 
 <!--
 **Mufti-code/Mufti-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
