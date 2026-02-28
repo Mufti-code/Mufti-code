@@ -1,8 +1,8 @@
-# Hi 👋 I'm Mufti
+# 👋 Hi, I'm Mufti
 
-💻 Full Stack Developer  
-📍 Aceh, Indonesia  
-🚀 Building Web Systems for Villages & Schools  
+🚀 Full Stack Developer | Digital System Builder  
+🏗️ Building Web & Automation Systems  
+📍 Aceh, Indonesia
 
 ## 🔧 Tech Stack
 - React
