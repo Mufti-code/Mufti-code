@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Maulana Al Mufti</h1>
+<h1 align="center">Hi 👋 I'm Maulana Al Mufti</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;JavaScript+Developer;Python+Programmer;Node.js+Backend+Developer&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-A passionate developer who enjoys building websites and learning modern technologies.
+A passionate developer who enjoys building web applications and learning modern technologies.
 </p>
 
 ---
@@ -14,39 +14,27 @@ A passionate developer who enjoys building websites and learning modern technolo
 
 Hello! My name is **Maulana Al Mufti**.
 
-I am a developer who is interested in building websites and learning modern programming technologies.  
-I enjoy creating web applications and improving my coding skills every day.
+I am a developer who enjoys creating websites and exploring programming technologies.  
+I like building projects, learning new tools, and improving my coding skills.
 
 - 💻 Focus on **Web Development**
 - ⚡ Interested in **Backend Development**
-- 🚀 Always learning and building new projects
-- 🌱 Currently improving my programming skills
+- 🚀 Passionate about building useful applications
+- 📚 Always learning and improving
 
 ---
 
-## 🛠 Programming Languages & Tools
+## 🛠 Tech Stack
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-
-<img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js">
-
-<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git">
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode">
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -60,22 +48,22 @@ I enjoy creating web applications and improving my coding skills every day.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-Here are some projects that I am working on:
+Some projects that I am working on:
 
 - 🌐 **Village Website**  
-  A responsive website project for a village profile.
+  A responsive website for village profile information.
 
 - ⚙️ **Node.js CRUD Application**  
-  A simple backend application with create, read, update, and delete functionality.
+  Backend CRUD system built with Node.js.
 
 - 🐍 **Python Tools**  
   Simple Python scripts and automation tools.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📱 WhatsApp  
 https://wa.me/6282218292014  
