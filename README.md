@@ -5,6 +5,124 @@
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Developer;Node.js+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Maulana Al Mufti**, a passionate developer who enjoys building websites and learning new technologies.
+
+- 💻 Focus on **Web Development**
+- 🐍 Also learning **Python Programming**
+- ⚡ Interested in **JavaScript, Node.js, and Backend Development**
+- 🚀 Building projects and improving coding skills every day
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+### Tools & Technologies
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Village Website
+Modern village profile website.
+
+Features:
+- Responsive design
+- Photo gallery
+- Google Maps
+- Dark mode
+
+### ⚙️ CRUD Web Application
+
+Backend CRUD system using **Node.js**
+
+Features:
+- Create
+- Read
+- Update
+- Delete
+- REST API
+
+### 🐍 Python Projects
+
+Some Python projects such as:
+
+- Automation scripts
+- Simple data processing
+- CLI tools
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mufti-code&theme=tokyonight">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mufti-code&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mufti-code&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufti-code&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mufti-code&label=Profile%20views&color=blue&style=flat">
+</p>
+
+---
+
+## 📫 Contact Me
+
+📱 WhatsApp  
+https://wa.me/6282218292014
+
+📧 Email  
+maulana3al0mufti@gmail.com
+
+🌐 GitHub  
+https://github.com/Mufti-code
+
+---
+
+⭐ From **Maulana Al Mufti**<h1 align="center">Hi 👋, I'm Maulana Al Mufti</h1>
+
+<p align="center">
+🚀 Web Developer | 💻 Programmer | 🌐 Future Fullstack Developer
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Node.js+Developer;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
