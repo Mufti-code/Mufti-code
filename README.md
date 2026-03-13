@@ -1,17 +1,21 @@
+<div align="center">
+
 # Hi 👋 I'm Maulana Al Mufti
 
-💻 Backend Developer
-🚀 Passionate about building web applications and APIs
-🌱 Currently learning backend architecture and scalable systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+Developer;PHP+%7C+Python+Developer;Building+Web+Applications" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔭 Building backend web applications and REST APIs
-* 🌱 Exploring backend technologies and database systems
-* 💡 Interested in backend development, APIs, and system architecture
-* 🚀 Continuously improving coding skills by building real-world projects
+💻 Backend Developer passionate about building web applications and APIs.
+
+- 🔧 Currently building backend web applications
+- 🌱 Learning backend architecture and scalable systems
+- 🚀 Improving my skills by building real-world projects
+- 💡 Interested in backend development and database systems
 
 ---
 
@@ -19,34 +23,32 @@
 
 ### Programming Languages
 
-* JavaScript
-* PHP
-* Python
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 
 ### Backend
 
-* Node.js
-* Express.js
-* PHP
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ### Database
 
-* MySQL
-* SQLite
-* PostgreSQL (learning)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite)
 
 ### Frontend
 
-* HTML
-* CSS
-* JavaScript
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* Railway
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Railway](https://img.shields.io/badge/Railway-purple?style=for-the-badge)
 
 ---
 
@@ -56,45 +58,39 @@
 
 A simple employee attendance system built with **Node.js, Express, and SQLite**.
 
-Features:
+### Features
 
-* Employee check-in system
-* Attendance history
-* REST API
-* Web interface
-* Cloud deployment
+- Employee check-in system
+- Attendance history
+- REST API backend
+- Web interface
+- Cloud deployment
 
-🔗 **Live Demo**
+### Live Demo
+
 https://employee-attendance-system-production-bdf4.up.railway.app
 
-🔗 **Repository**
+### Repository
+
 https://github.com/Mufti-code/employee-attendance-system
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mufti-code\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufti-code\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-📧 Email
-[maulana3al0mufti@gmail.com](mailto:maulana3al0mufti@gmail.com)
+📧 Email  
+maulana3al0mufti@gmail.com  
 
-💻 GitHub
-https://github.com/Mufti-code
+💻 GitHub  
+https://github.com/Mufti-code  
 
-📱 WhatsApp
-082218292014
+📱 WhatsApp  
+082218292014  
 
 ---
 
+<div align="center">
+
 ⭐ Thanks for visiting my GitHub profile!
+
+</div>
