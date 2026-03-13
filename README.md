@@ -1,79 +1,100 @@
-<h1 align="center">Hi 👋 I'm Maulana Al Mufti</h1>
+# Hi 👋 I'm Maulana Al Mufti
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;JavaScript+Developer;Python+Programmer;Node.js+Backend+Developer&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-A passionate developer who enjoys building web applications and learning modern technologies.
-</p>
+💻 Backend Developer
+🚀 Passionate about building web applications and APIs
+🌱 Currently learning backend architecture and scalable systems
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! My name is **Maulana Al Mufti**.
-
-I am a developer who enjoys creating websites and exploring programming technologies.  
-I like building projects, learning new tools, and improving my coding skills.
-
-- 💻 Focus on **Web Development**
-- ⚡ Interested in **Backend Development**
-- 🚀 Passionate about building useful applications
-- 📚 Always learning and improving
+* 🔭 Building backend web applications and REST APIs
+* 🌱 Exploring backend technologies and database systems
+* 💡 Interested in backend development, APIs, and system architecture
+* 🚀 Continuously improving coding skills by building real-world projects
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode">
+* JavaScript
+* PHP
+* Python
 
-</p>
+### Backend
+
+* Node.js
+* Express.js
+* PHP
+
+### Database
+
+* MySQL
+* SQLite
+* PostgreSQL (learning)
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Railway
+
+---
+
+## 🚀 Featured Project
+
+### Employee Attendance System
+
+A simple employee attendance system built with **Node.js, Express, and SQLite**.
+
+Features:
+
+* Employee check-in system
+* Attendance history
+* REST API
+* Web interface
+* Cloud deployment
+
+🔗 **Live Demo**
+https://employee-attendance-system-production-bdf4.up.railway.app
+
+🔗 **Repository**
+https://github.com/Mufti-code/employee-attendance-system
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mufti-code&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mufti-code&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufti-code&layout=compact&theme=tokyonight">
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mufti-code\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 📂 Projects
+## 🔥 Most Used Languages
 
-Some projects that I am working on:
-
-- 🌐 **Village Website**  
-  A responsive website for village profile information.
-
-- ⚙️ **Node.js CRUD Application**  
-  Backend CRUD system built with Node.js.
-
-- 🐍 **Python Tools**  
-  Simple Python scripts and automation tools.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufti-code\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-📱 WhatsApp  
-https://wa.me/6282218292014  
+📧 Email
+[maulana3al0mufti@gmail.com](mailto:maulana3al0mufti@gmail.com)
 
-📧 Email  
-maulana3al0mufti@gmail.com  
-
-🌐 GitHub  
+💻 GitHub
 https://github.com/Mufti-code
+
+📱 WhatsApp
+082218292014
 
 ---
 
-⭐ From **Maulana Al Mufti**
+⭐ Thanks for visiting my GitHub profile!
