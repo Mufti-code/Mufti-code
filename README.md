@@ -59,29 +59,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Railway](https://img.shields.io/badge/Railway-purple?style=for-the-badge)
 
----
-
-# 🚀 Featured Project
-
-## Employee Attendance System
-
-A full stack employee attendance system built with **Node.js, Express, and SQLite**.
-
-### Features
-
-- Employee check-in system
-- Attendance history
-- REST API backend
-- Web interface
-- Cloud deployment
-
-### Live Demo
-
-https://employee-attendance-system-production-bdf4.up.railway.app
-
-### Repository
-
-https://github.com/Mufti-code/employee-attendance-system
 
 ---
 
